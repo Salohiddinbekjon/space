@@ -5,7 +5,6 @@ let errorP = document.querySelector(".errorp");
 
 loginBtn.addEventListener("click", login);
 
-alert("id parol console.log da")
 console.log(408077,123456);
 
 
